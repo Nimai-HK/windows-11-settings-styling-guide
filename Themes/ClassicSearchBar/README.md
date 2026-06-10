@@ -1,12 +1,11 @@
 # ClassicSearchBar theme for Windows 11 Settings Styler
 
-**Author**: [Tails](https://github.com/milestprower92)
-
-[](./screenshot.png)
-
-## Notes
-
 This theme replicates the old Settings app searchbox location on Windows 11 25H2+
+
+**Author**: [Tails](https://github.com/milestprower92)
+#
+**Screenshot**
+[![Screenshot](screenshot.png)](screenshot.png)
 
 ## Theme selection
 
@@ -79,9 +78,6 @@ controlStyles:
   - target: Button#CommandSearchBoxFlyoutButton
     styles:
       - Margin=140,-125,0,0
-  - target: Grid > TextBlock#UserAccount
-    styles:
-      - Text= 
 themeResourceVariables:
   - ''
 ```
