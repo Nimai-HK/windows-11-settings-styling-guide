@@ -1,4 +1,4 @@
-# The Windows 11 Settings app styling guide
+# The Windows 11 Settings styling guide
 
 ## Table of contents
 
@@ -13,12 +13,11 @@
 * [Transforms](#transforms)
 * [Colors](#colors)
 
-
 ## Introduction
 
-This is a collection of commonly requested Settings app styling customizations for
-Windows 11. It is intended to be used with the [Windows 11 Settings
-Styler](https://windhawk.net/mods/windows-11-app-styler-settings) Windhawk mod.
+This is a collection of commonly requested Settings app styling customizations
+for Windows 11. It is intended to be used with the [Windows 11 Settings
+Styler](https://windhawk.net/mods/windows-11-settings-styler) Windhawk mod.
 
 If you're not familiar with Windhawk, here are the steps for installing the mod:
 
@@ -32,8 +31,9 @@ to your preferences.
 Some customizations are best adjusted with other Windhawk mods. Links to those
 mods are provided where applicable.
 
-**See also**: [The Windows 11 Taskbar
-Styler](https://github.com/ramensoftware/windows-11-taskbar-styling-guide/blob/main/README.md), [The Windows 11 start menu styling
+**See also**: [The Windows 11 taskbar styling
+guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide/blob/main/README.md),
+[The Windows 11 start menu styling
 guide](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/blob/main/README.md),
 [The Windows 11 notification center styling
 guide](https://github.com/ramensoftware/windows-11-notification-center-styling-guide/blob/main/README.md).
@@ -103,7 +103,6 @@ Orientation=0
 > [!NOTE]
 > Some lists (Apps → Installed apps) crash the Settings app in a 1-line style,
 > so would require an override to revert to the 2-line style
-
 
 ## Transforms
 
