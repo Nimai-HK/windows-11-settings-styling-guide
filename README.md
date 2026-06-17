@@ -121,7 +121,7 @@ Background=#80FF0830
 
 ### Path Header Grid
 
-To change the path advancing direction
+To change the path advancing direction and alignment
 Target:
 ```
 Grid#ContentRoot > Border > Grid#ContentGrid > ContentControl#HeaderContent
